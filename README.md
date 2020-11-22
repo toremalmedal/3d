@@ -8,7 +8,7 @@ https://hoydedata.no/LaserInnsyn/
 
 The received data-sets is found in the folders for each location.
 
-The data is in .laz format, which is an compressed format of LAS. No wories, can be directly imported with CloudCompare. (seemlessly sequieing to ... )
+The data is in .laz format, which is an compressed format of LAS. No wories, can be directly imported with CloudCompare. (seemlessly seguieing to ... )
 
 # Tools
 I've used CloudCompare to do cleanup of the cloud and to generate a mesh of the surface. Be warned: To be able to use the meshing tools (that is dependent on some wacky math library that debian doesnt like to have in its package depository (dont fact check this)) i had to use snap to install it. Another neat feature i found is removing points based on their Scalar Fields properties. Somehow the LiDAR gets different properties from trees than it does from city-stuff, and that was used to clean up some spiky tree structures.
