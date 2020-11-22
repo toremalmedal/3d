@@ -22,12 +22,25 @@ As it should always be
 
 # Tables for LAS-data
 
-![Standard_LAS_Classes_Table](images/spec_table.png)
-
+![Specs_for_resolution](images/spec_table.png)
 ![Standard_LAS_Classes_Table](images/std_classes_table.png)
-![Standard_LAS_Classes_Table](images/opt_classes_table.png)
+![Optional_LAS_Classes_Table](images/opt_classes_table.png)
 
 
 
 # CloudCompare Screenshots
+
+Looking throguh the available properties of the point cloud can help with cleaning the file.
+
+The 'classificatin' properties can reveal outliers.
+![Classification](classification.png)
+The 'number of returns' seems to expose trees and windows
+![Number_of_returns](number_of_returns.png)
+
+To get a better view of whats going on, shaders can be enabled:
+![Enable_shaders](enable_shaders.png)
+
+Removing the worst of the outliers can be done manually with the selection (sciccors icon) tool.
+![Outliers](outliers.png)
+![Selection](selection.png)
 
