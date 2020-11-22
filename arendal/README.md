@@ -16,3 +16,6 @@ When i had a mesh of the surface i use FreeCAD to create a primitive qube that s
 Good enough was good enough for me
 As it should always be
 ```
+
+# CloudCompare Screenshots
+
