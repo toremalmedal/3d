@@ -1,1 +1,1 @@
-The uncompressez stl-file has a very low poly count. Was way to eager on the subsampling early on in the project to make things go fast (RIP intel i5 cpu). Compressed stl is better and bigger, but not "solid".
+The uncompressez stl-file has a very low poly count. Was way to eager on the subsampling early on in the project to make things go fast (RIP intel i5 cpu). Compressed stl is better and bigger, but not "solid". Bigger area is covered by the two .laz-files.
