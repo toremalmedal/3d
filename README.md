@@ -22,7 +22,11 @@ As it should always be
 
 # Tables for LAS-data
 
+![Standard_LAS_Classes_Table](images/spec_table.png)
+
 ![Standard_LAS_Classes_Table](images/std_classes_table.png)
+![Standard_LAS_Classes_Table](images/opt_classes_table.png)
+
 
 
 # CloudCompare Screenshots
