@@ -32,7 +32,11 @@ As it should always be
 
 Looking throguh the available properties of the point cloud can help with cleaning the file.
 
-The 'classificatin' properties can reveal outliers.
+The 'classification' properties according to the table with standard classes above:
+
+Grey (class 1): Unclassified. Blue (class 2): Points on terrain as well as water. Yellow (Class 7): Noise (lowpoints) caused by clouds, birds, errors.
+We now know that class 7 can be removed. Parhaps class 2 as well, if we are only looking for buildings.
+
 ![Classification](images/classification.png)
 The 'number of returns' seems to expose trees and windows
 ![Number_of_returns](images/number_of_returns.png)
