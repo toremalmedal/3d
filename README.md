@@ -42,7 +42,7 @@ The 'number of returns' seems to expose trees and windows
 ![Number_of_returns](images/number_of_returns.png)
 
 To get a better view of whats going on, shaders can be enabled:
-![Enable_shaders](images/enable_shaders.png)
+![Enable_shaders](images/enableshaders.png)
 
 Removing the worst of the outliers can be done manually with the selection (sciccors icon) tool.
 ![Outliers](images/outliers.png)
