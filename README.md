@@ -34,7 +34,10 @@ Looking throguh the available properties of the point cloud can help with cleani
 
 The 'classification' properties according to the table with standard classes above:
 
-Grey (class 1): Unclassified. Blue (class 2): Points on terrain as well as water. Yellow (Class 7): Noise (lowpoints) caused by clouds, birds, errors.
+* Grey (class 1): Unclassified. 
+* Blue (class 2): Points on terrain as well as water. 
+* Yellow (Class 7): Noise (lowpoints) caused by clouds, birds, errors.
+
 We now know that class 7 can be removed. Parhaps class 2 as well, if we are only looking for buildings.
 
 ![Classification](images/classification.png)
