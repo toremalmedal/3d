@@ -33,14 +33,14 @@ As it should always be
 Looking throguh the available properties of the point cloud can help with cleaning the file.
 
 The 'classificatin' properties can reveal outliers.
-![Classification](classification.png)
+![Classification](images/classification.png)
 The 'number of returns' seems to expose trees and windows
-![Number_of_returns](number_of_returns.png)
+![Number_of_returns](images/number_of_returns.png)
 
 To get a better view of whats going on, shaders can be enabled:
-![Enable_shaders](enable_shaders.png)
+![Enable_shaders](images/enable_shaders.png)
 
 Removing the worst of the outliers can be done manually with the selection (sciccors icon) tool.
-![Outliers](outliers.png)
-![Selection](selection.png)
+![Outliers](images/outliers.png)
+![Selection](images/selection.png)
 
