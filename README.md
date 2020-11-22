@@ -48,6 +48,5 @@ To get a better view of whats going on, shaders can be enabled:
 ![Enable_shaders](images/enableshaders.png)
 
 Removing the worst of the outliers can be done manually with the selection (sciccors icon) tool.
-![Outliers](images/outliers.png)
 ![Selection](images/selection.png)
 
